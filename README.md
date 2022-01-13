@@ -13,7 +13,7 @@ The AWS Certified Cloud Practitioner is the entry level certification from AWS. 
 - 
 ## What you'll learn
 
-- We will have learn deep dive overview on what AWS Cloud is all about.
+- We will learn deep dive overview on what AWS Cloud is all about.
 
 
 
