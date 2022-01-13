@@ -10,21 +10,11 @@ The AWS Certified Cloud Practitioner is the entry level certification from AWS. 
 - Those who want to take a leap into Cloud Computing with AWS
 
 - Those who wish to appear for the AWS Certified Cloud Practitioner Exam
+- 
+## What you'll learn
 
+- We will have learn deep dive overview on what AWS Cloud is all about.
 
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 
