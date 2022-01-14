@@ -4,7 +4,7 @@
 The purpose of creating this learning space is to encourage women those who have lack of knowledge about Cloud Technologies Specially AWS .
 I will try to  cover all the topics from beginner to advance level in AWS Cloud Practitioner.
  
-The AWS Certified Cloud Practitioner is the entry level certification from AWS. This is a must have for any student who begins their journey to Cloud computing with AWS. 
+The AWS Certified Cloud Practitioner is the entry level certification. This is a must have for any student who begins their journey to Cloud computing with AWS. 
 
 ## Who this space is for
 
