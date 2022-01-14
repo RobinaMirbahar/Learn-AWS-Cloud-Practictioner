@@ -6,12 +6,11 @@ I will try to  cover all the topics from beginner to advance level in AWS Cloud 
  
 The AWS Certified Cloud Practitioner is the entry level certification. This is a must have for any student who begins their journey to Cloud computing with AWS. 
 
-## Who this space is for
+## Who this Exam is for
 
-- Those who want to take a leap into Cloud Computing with AWS
-
-- Those who wish to appear for the AWS Certified Cloud Practitioner Exam
-
+- At least six (6) months of experience with the AWS Cloud in any role, including technical, managerial, sales, purchasing, or financial.
+- Students who wish to start there carer in Cloud Computing. 
+-
 ## What you'll learn
 
 - We will learn deep dive overview on what AWS Cloud is all about.
