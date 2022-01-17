@@ -1,5 +1,5 @@
 <p align='center'>
-      <img align="center"><img src="https://github.com/RobinaMirbahar/Learn-AWS-Cloud-Practictioner/blob/main/Images/BannerCP.svg">
+      <img align="center"><img src="https://github.com/RobinaMirbahar/Learn-AWS-Cloud-Practictioner/blob/main/Banner/BannerCP.svg">
 </p>
 
 ## Learn AWS Certified Cloud Practitioner ( CLF-C01 )
