@@ -20,14 +20,9 @@ The AWS Certified Cloud Practitioner is the entry level certification. This is a
 
 ## Content outline
 
-| Domain           | % of Examination                                                              |
-| ----------------- | ------------------------------------------------------------------ |
-| Domain 1 : Cloud Concepts | % 26 |
-| Domain 2 : Security and Compliance | % 25 |
-| Domain 3 : : Technology | % 33 |
-| Domain 4 : : Billing and Pricing | % 16 |
-| Total :   | % 100 |
-
+<p align='center'>
+      <img align="center"><img src="https://github.com/RobinaMirbahar/Learn-AWS-Cloud-Practictioner/blob/main/Images/Infogrphics.drawio.svg">
+</p>
 
 
 
